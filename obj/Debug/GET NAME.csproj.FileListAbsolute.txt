@@ -1,0 +1,7 @@
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\bin\Debug\GET NAME.exe.config
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\bin\Debug\GET NAME.exe
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\bin\Debug\GET NAME.pdb
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\obj\Debug\GET NAME.csprojAssemblyReference.cache
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\obj\Debug\GET NAME.csproj.CoreCompileInputs.cache
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\obj\Debug\GET NAME.exe
+C:\Users\Arioo\source\repos\GET NAME\GET NAME\obj\Debug\GET NAME.pdb
